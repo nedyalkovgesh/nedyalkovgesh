@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Georgi a chemistry student 👋
 
 <!--
 **nedyalkovgesh/nedyalkovgesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
